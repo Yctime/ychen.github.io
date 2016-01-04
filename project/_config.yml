@@ -68,8 +68,6 @@ theme: yilia
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: git@github.com:Yctime/cy.github.io.git
-  branch: master
+  type:
 
 
